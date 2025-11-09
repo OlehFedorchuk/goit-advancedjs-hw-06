@@ -4,8 +4,8 @@
 */
 enum Days {
   MONDAY = "monday",
-  TUSDAY = "tuesday",
-  WEDNERSDAY = "wednesday",
+  TUESDAY = "tuesday",
+  WEDNESDAY = "wednesday",
   THURSDAY = "thursday",
   FRIDAY = "friday",
   SATURDAY = "saturday",
